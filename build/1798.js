@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk_tsparticles_wordpress=globalThis.webpackChunk_tsparticles_wordpress||[]).push([[1798],{1798:(s,a,e)=>{e.d(a,{loadEasingQuadPlugin:()=>i});var u=e(9201);async function i(){(0,u.bx)("ease-in-quad",(s=>s**2)),(0,u.bx)("ease-out-quad",(s=>1-(1-s)**2)),(0,u.bx)("ease-in-out-quad",(s=>s<.5?2*s**2:1-(-2*s+2)**2/2))}}}]);

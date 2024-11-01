@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkwordpress_particles=globalThis.webpackChunkwordpress_particles||[]).push([[809],{809:(s,a,e)=>{e.r(a),e.d(a,{loadSquareShape:()=>c});const r=Math.sqrt(2);class t{draw(s,a,e){const t=e/r,c=2*t;s.rect(-t,-t,c,c)}getSidesCount(){return 4}}async function c(s,a=!0){await s.addShape(["edge","square"],new t,a)}}}]);

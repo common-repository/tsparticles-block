@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkwordpress_particles=globalThis.webpackChunkwordpress_particles||[]).push([[4478],{4478:(a,e,s)=>{s.r(e),s.d(e,{loadLineShape:()=>t});class n{draw(a,e,s){const n=e.shapeData;a.moveTo(-s/2,0),a.lineTo(s/2,0),a.lineCap=n?.cap??"butt"}getSidesCount(){return 1}}async function t(a,e=!0){await a.addShape("line",new n,e)}}}]);

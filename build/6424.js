@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunk_tsparticles_wordpress=globalThis.webpackChunk_tsparticles_wordpress||[]).push([[6424],{6424:(s,a,t)=>{t.d(a,{loadBubbleEffect:()=>l});class e{draw(s){const{context:a,radius:t}=s;a.beginPath(),a.arc(t/3,-t/3,t/3,0,2*Math.PI,!1),a.closePath(),a.fillStyle="#fff9",a.fill()}}async function l(s,a=!0){await s.addEffect("bubble",new e,a)}}}]);
